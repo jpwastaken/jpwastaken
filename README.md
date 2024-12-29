@@ -1,6 +1,7 @@
+### About Me  
+
 - 👋 Hi, I’m @jpwastaken
 
-### About Me  
 👨‍💻 I'm a developer passionate about technology and programming.  
 
 ---
@@ -11,7 +12,7 @@
 ---
 
 ### 🌱 Currently Learning  
-- **Rust**
+- **![Ferris the Crab](https://www.rustacean.net/assets/rustacean-flat-happy.png) Rust**
 
 ---
 

@@ -16,13 +16,14 @@
 
 ### 🌱 Currently Learning  
 
-**<img src="https://www.rustacean.net/assets/rustacean-flat-happy.png" alt="Ferris the Crab" width="20" height="20"> Rust**
+- 🦀 **Rust** 
   
 ---
 
 ### 📈 GitHub Stats  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jpwastaken&show_icons=true&theme=radical" alt="GitHub Stats" width="48%">  
+  <img src="https://github-readme-stats.vercel.app/api?username=jpwastaken&show_icons=true&theme=radical" alt="GitHub Stats" width="48%">
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpwastaken&layout=compact&theme=radical" alt="Top Languages" width="48%">
 </div>

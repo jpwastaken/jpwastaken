@@ -8,16 +8,16 @@
 
 ### 🛠️ Technologies and Tools  
 
-- **Languages**:  
-  ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)  
-  ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)  
-
+- **Languages**:
+  
+  ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)  
+  
 ---
 
 ### 🌱 Currently Learning  
 
-- **<img src="https://www.rustacean.net/assets/rustacean-flat-happy.png" alt="Ferris the Crab" width="20" height="20"> Rust**
-- 
+**<img src="https://www.rustacean.net/assets/rustacean-flat-happy.png" alt="Ferris the Crab" width="20" height="20"> Rust**
+  
 ---
 
 ### 📈 GitHub Stats  

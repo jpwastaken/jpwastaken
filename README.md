@@ -12,10 +12,10 @@
 ---
 
 ### 🌱 Currently Learning  
-- **![Ferris the Crab](https://www.rustacean.net/assets/rustacean-flat-happy.png) Rust**
+- **<img src="https://www.rustacean.net/assets/rustacean-flat-happy.png" alt="Ferris the Crab" width="20" height="20"> Rust**
 
 ---
 
 ### 📈 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jpwastaken&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jpwastaken&layout=compact&theme=radical)  
